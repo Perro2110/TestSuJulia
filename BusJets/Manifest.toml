@@ -1,0 +1,12 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.10.4"
+manifest_format = "2.0"
+project_hash = "86734c5765dc47a23700374c6eddcce16e6e1ff6"
+
+[[deps.Vehicle]]
+git-tree-sha1 = "2c810be81ab1e9c159137a36e7192e76a65b03da"
+repo-rev = "main"
+repo-url = "../Vehicle"
+uuid = "e6dfaac1-45e4-40e5-9f78-12cd048089f7"
+version = "1.0.0-DEV"
